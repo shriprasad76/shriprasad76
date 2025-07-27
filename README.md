@@ -3,8 +3,7 @@
 <h3 align="center">B-Tech Computer Science (AIML) Student </h3>
 
 - 📫 Reach me at **shriprasadvpatil7@gmail.com**  
-- ⚡ Fun fact: ⚔️ *"My daily battle: logic vs logic error."*
-
+- ⚡ Fun fact: ⚔️ "I don’t find bugs… bugs find me."
 <br/>
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" style="margin-top: 20px;" />
